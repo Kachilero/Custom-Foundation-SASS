@@ -1,4 +1,8 @@
-# Foundation libsass template
+# Personal implementation of Zurb Foundation libsass
+
+I've set this up so that I can play with Foundation and set up a custom repo.
+
+## Foundation libsass template
 
 This is a template to start your own project that uses Grunt and libsass!
 
